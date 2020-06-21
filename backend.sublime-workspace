@@ -19,23 +19,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "djangoandreact.sublime-project",
-			"settings":
-			{
-				"buffer_size": 448,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/darth-vader/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 21764,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -49,6 +32,22 @@
 		"selected_items":
 		[
 			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"te",
+				"Terminal: Open"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
 				"con",
 				"Conda: Activate Environment"
 			],
@@ -59,10 +58,6 @@
 			[
 				"in",
 				"Package Control: Install Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Remove Package"
 			],
 			[
 				"ipacka",
@@ -85,7 +80,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 136.0,
 		"history":
 		[
 		]
@@ -101,13 +96,16 @@
 	},
 	"expanded_folders":
 	[
-		"/media/darth-vader/New Volume/workplace/djangoandreact"
+		"/media/darth-vader/New Volume/workplace/djangoandreact/backend"
 	],
 	"file_history":
 	[
-		"/home/darth-vader/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/media/darth-vader/New Volume/workplace/djangoandreact/env/lib/python3.8/site-packages/django/http/response.py",
+		"/home/darth-vader/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/media/darth-vader/New Volume/workplace/djangoandreact/env/lib/python3.8/site-packages/django/template/context_processors.py",
+		"/media/darth-vader/New Volume/workplace/djangoandreact/djangoandreact.sublime-project",
 		"/media/darth-vader/New Volume/workplace/djangoandreact/blogspot/article/views.py",
+		"/media/darth-vader/New Volume/workplace/djangoandreact/env/lib/python3.8/site-packages/django/contrib/gis/gdal/geomtype.py",
 		"/media/darth-vader/New Volume/workplace/djangoandreact/env/lib/python3.8/site-packages/django/shortcuts.py",
 		"/media/darth-vader/New Volume/workplace/djangoandreact/env/lib/python3.8/site-packages/django/core/management/__init__.py",
 		"/media/darth-vader/New Volume/workplace/djangoandreact/env/lib/python3.8/site-packages/django/views/debug.py",
@@ -122,7 +120,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -136,7 +134,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"interpreter"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -154,68 +151,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "djangoandreact.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 448,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/darth-vader/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 21764,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1042.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -259,7 +196,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "Anaconda Python Builder",
-	"project": "djangoandreact.sublime-project",
+	"project": "backend.sublime-project",
 	"replace":
 	{
 		"height": 44.0
